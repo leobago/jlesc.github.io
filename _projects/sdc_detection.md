@@ -6,7 +6,7 @@ updated: 2020-02-25
 navbar: Research
 subnavbar: Projects
 project_url:
-status: suspended
+status: finished
 topics:
   - resilience
 keywords:
@@ -104,6 +104,9 @@ Experiments show that our detector can detect more than 89% of SDCs with a false
 
 ## Results for 2019/2020
 Most of the partners of this project started working in other projects and there has not been any recent update/work done on this topic. Therefore, we are suspending the project and potentially mark it as finished in 6 months if no further comments/petitions are raised by any of the partners. 
+
+## Results for 2020/2021
+The project has been suspended for over 6 months and all the partners are working on different fault tolerance issues. The project is now finished.
 
 ## Visits and meetings
 
